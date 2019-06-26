@@ -123,8 +123,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #222;
-    background:rgba(0,0,0,0.7);
+    background: #e5b3a0;
+    background:rgb(229, 179, 160);
     color: #fff;
     font-family: 'Raleway', sans-serif;
     font-weight: 300;
